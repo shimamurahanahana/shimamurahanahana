@@ -155,6 +155,7 @@ timeline
 <p align="center">
   <a href="https://bnergui.netlify.app"><img src="https://img.shields.io/badge/Portfolio-bnergui.netlify.app-ff3d7f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:shimamurahanahana@gmail.com"><img src="https://img.shields.io/badge/Gmail-shimamurahanahana-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+$L
 </p>
 
 <p align="center"><i>「新しい環境や技術にも前向きに学び続け、チームに貢献します。」</i></p>
