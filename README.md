@@ -100,21 +100,14 @@ const baatar = {
       &nbsp;<b><a href="https://mongolian-typing.netlify.app">▶ Live</a></b>
     </td>
     <td width="50%" valign="top">
-      <a href="https://japanaylal.netlify.app"><img src="assets/tokyo.jpg" alt="Tokyo Travel Guide" width="100%" /></a>
-      <h4>🗼 東京旅行ガイドサイト</h4>
-      モンゴル人旅行者向けの東京観光ガイド。エリア・スポット・移動・モデルコース。<br /><br />
-      <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      &nbsp;<b><a href="https://japanaylal.netlify.app">▶ Live</a></b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://shimamurahanahana.github.io/my-dream-house-plan/"><img src="assets/house.jpg" alt="Dream House" width="100%" /></a>
       <h4>🏡 住宅コンセプト計画サイト</h4>
       2階建て住宅・2000㎡の敷地・温室・設備計画を図とともに紹介。<br /><br />
       <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" />
       &nbsp;<b><a href="https://shimamurahanahana.github.io/my-dream-house-plan/">▶ Live</a></b> · <a href="https://github.com/shimamurahanahana/my-dream-house-plan">Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://tuhtai-hashaa.netlify.app"><img src="assets/hashaa.jpg" alt="Tukhtai Khashaa" width="100%" /></a>
       <h4>🌿 敷地計画サイト「Тухтай хашаа」</h4>
@@ -122,6 +115,7 @@ const baatar = {
       <img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white" />
       &nbsp;<b><a href="https://tuhtai-hashaa.netlify.app">▶ Live</a></b> · <a href="https://github.com/shimamurahanahana/tuhtai-hashaa">Code</a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
