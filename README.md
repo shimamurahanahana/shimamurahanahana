@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://baatar-nergui-portfolio.netlify.app">
+  <a href="https://bnergui.netlify.app">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3200&pause=900&color=FF3D7F&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Baatar+%F0%9F%91%8B;Frontend+Engineer+living+in+Japan;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Supabase;From+idea+%E2%86%92+design+%E2%86%92+code+%E2%86%92+launch+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://baatar-nergui-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-ff3d7f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://bnergui.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20site-ff3d7f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-34d399?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
   <img src="https://img.shields.io/badge/Visa-%E5%B0%B1%E5%8A%B4%E5%88%B6%E9%99%90%E3%81%AA%E3%81%97-8b5cf6?style=for-the-badge" alt="就労制限なし" />
   <a href="mailto:shimamurahanahana@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -126,7 +126,7 @@ const baatar = {
 </table>
 
 <p align="center">
-  <a href="https://baatar-nergui-portfolio.netlify.app"><b>✨ すべての制作実績はポートフォリオサイトへ →</b></a>
+  <a href="https://bnergui.netlify.app"><b>✨ すべての制作実績はポートフォリオサイトへ →</b></a>
 </p>
 
 <br />
@@ -159,7 +159,7 @@ timeline
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://baatar-nergui-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-baatar--nergui--portfolio-ff3d7f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://bnergui.netlify.app"><img src="https://img.shields.io/badge/Portfolio-bnergui.netlify.app-ff3d7f?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:shimamurahanahana@gmail.com"><img src="https://img.shields.io/badge/Gmail-shimamurahanahana-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
